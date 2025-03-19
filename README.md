@@ -1,4 +1,4 @@
-### Hi there, I'm Atharva Sanjay Bhavar! 👋
+### Hi there, I'm Atharva  Bhavar! 👋
 
 🚀 **Tech Enthusiast | AI & IoT Innovator | Full-Stack Developer**
 
@@ -6,7 +6,6 @@
 
 ### 🚀 About Me
 
-- 🏆 **Winner of Smart India Hackathon (SIH) 2024** for AI-powered Smart Parcel Delivery System.
 - 💡 Passionate about **AI, IoT, and Cloud Computing**.
 - 🎓 Pursuing **B.Tech in Information Technology** at Sanjivani College of Engineering.
 - 💼 **UiPath Student Developer Champion** | Web Developer | IoT Innovator.
@@ -25,44 +24,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
 </p>
 
-- **Languages:** C, Java, Python, JavaScript, TypeScript
-- **Frontend:** React.js, React Native, Next.js
-- **Backend:** Node.js, Express.js, Laravel (PHP)
-- **Databases:** MongoDB, MySQL, IBM Db2
+- **Languages:** C, Java, Python, JavaScript
+- **Frontend:** React.js, React Native
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
 
 #### 📡 IoT & AI:
 - **Platforms:** Raspberry Pi, Arduino
 - **AI/ML:** TensorFlow, OpenCV, Scikit-Learn
-- **Cloud:** IBM Cloud, Azure, Firebase
+
 
 #### 🛠️ Tools & Others:
 - **Version Control:** Git, GitHub
-- **Automation & RPA:** UiPath
-- **Deployment:** Docker, Kubernetes
-
 ---
 
-### 📌 Projects & Achievements
-
-#### 🏆 **Smart India Hackathon (SIH) 2024 Winner**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Smart_India_Hackathon_Logo.svg/800px-Smart_India_Hackathon_Logo.svg.png" width="150" height="80"/>
-</p>
-- Built an **AI-based Smart Parcel Delivery System** for Indian Post 🚀
-
-#### ⚡ **SolarSync - AI-driven Energy Optimization**
-- Smart scheduling for solar power utilization & **selling excess energy to the grid**.
-
-#### 👓 **Smart Glasses for the Blind**
-- IoT-based **real-time navigation assistant** for visually impaired individuals.
-
-#### 🚦 **Red Signal Jump Detection System**
-- AI-powered system to detect traffic violations with **onboard edge computing**.
-
-#### 📦 **Book Reselling Platform**
-- Connecting students to **buy & sell used books** directly, eliminating middlemen.
-
----
 
 ### 🏅 Awards & Achievements
 
