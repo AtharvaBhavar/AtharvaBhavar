@@ -49,9 +49,8 @@
 ---
 
 ### 📫 Let's Connect!
-- 🔗 **GitHub:** [github.com/atharvabhavar](https://github.com/atharvabhavar)
-- 💼 **LinkedIn:** [linkedin.com/in/atharvabhavar](https://linkedin.com/in/atharvabhavar)
-- 📝 **Portfolio:** Coming soon!
-- 📧 **Email:** atharvabhavar@example.com (Replace with your actual email)
+- 🔗 **GitHub:** [github.com/AtharvaBhavar](https://github.com/AtharvaBhavar)
+- 💼 **LinkedIn:** [linkedin.com/in/atharva-bhavar](https://www.linkedin.com/in/atharva-bhavar/)
+- 📧 **Email:** bhavaratharva24@gmail.com 
 
 🔹 Always open to collaborations & learning new things! Feel free to reach out! 🚀
