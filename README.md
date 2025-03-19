@@ -1,6 +1,6 @@
 ### Hi there, I'm Atharva  Bhavar! 👋
 
-🚀 **Tech Enthusiast | AI & IoT Innovator | Full-Stack Developer**
+🚀 **Tech Enthusiast | AI & IoT Innovator | Full-Stack Developer | 🏆 SIH 2024 Winner**
 
 ---
 
