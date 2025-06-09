@@ -1,4 +1,5 @@
 ### Hi there, I'm Atharva  Bhavar! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=AtharvaBhavar&label=Profile%20views&color=0e75b6&style=flat)
 
 🚀 **Tech Enthusiast | AI & IoT Innovator | Full-Stack Developer | 🏆 SIH 2024 Winner**
 
